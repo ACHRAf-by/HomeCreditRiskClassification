@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/212256a36aac40e79ebc82c6a6bf1250/artifacts
+end_time: 1674938701079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 212256a36aac40e79ebc82c6a6bf1250
+run_name: nosy-cat-160
+run_uuid: 212256a36aac40e79ebc82c6a6bf1250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938693155
+status: 3
+tags: []
+user_id: Mika

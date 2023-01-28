@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/3e0c6c0137ca48e1b92db1c9c694dd41/artifacts
+end_time: 1674939120675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e0c6c0137ca48e1b92db1c9c694dd41
+run_name: calm-skink-96
+run_uuid: 3e0c6c0137ca48e1b92db1c9c694dd41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674939112652
+status: 3
+tags: []
+user_id: Mika

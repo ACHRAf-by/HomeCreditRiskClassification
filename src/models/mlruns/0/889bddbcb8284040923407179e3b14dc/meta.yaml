@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/889bddbcb8284040923407179e3b14dc/artifacts
+end_time: 1674936547349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 889bddbcb8284040923407179e3b14dc
+run_name: victorious-mole-198
+run_uuid: 889bddbcb8284040923407179e3b14dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674936539305
+status: 3
+tags: []
+user_id: Mika

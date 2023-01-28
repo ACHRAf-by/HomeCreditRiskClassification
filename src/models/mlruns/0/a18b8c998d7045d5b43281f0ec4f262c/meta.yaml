@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/a18b8c998d7045d5b43281f0ec4f262c/artifacts
+end_time: 1674937758350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18b8c998d7045d5b43281f0ec4f262c
+run_name: bald-whale-498
+run_uuid: a18b8c998d7045d5b43281f0ec4f262c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937750253
+status: 3
+tags: []
+user_id: Mika

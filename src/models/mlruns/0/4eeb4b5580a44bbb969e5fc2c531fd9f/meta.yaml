@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/4eeb4b5580a44bbb969e5fc2c531fd9f/artifacts
+end_time: 1674937653663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eeb4b5580a44bbb969e5fc2c531fd9f
+run_name: awesome-frog-836
+run_uuid: 4eeb4b5580a44bbb969e5fc2c531fd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937645596
+status: 3
+tags: []
+user_id: Mika

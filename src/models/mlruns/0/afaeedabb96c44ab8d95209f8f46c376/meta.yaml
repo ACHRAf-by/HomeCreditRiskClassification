@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/afaeedabb96c44ab8d95209f8f46c376/artifacts
+end_time: 1674938592632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afaeedabb96c44ab8d95209f8f46c376
+run_name: sassy-shad-885
+run_uuid: afaeedabb96c44ab8d95209f8f46c376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938584719
+status: 3
+tags: []
+user_id: Mika

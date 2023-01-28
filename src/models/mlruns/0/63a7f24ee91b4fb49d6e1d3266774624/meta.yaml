@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/63a7f24ee91b4fb49d6e1d3266774624/artifacts
+end_time: 1674938887718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63a7f24ee91b4fb49d6e1d3266774624
+run_name: enthused-snail-84
+run_uuid: 63a7f24ee91b4fb49d6e1d3266774624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938879751
+status: 3
+tags: []
+user_id: Mika

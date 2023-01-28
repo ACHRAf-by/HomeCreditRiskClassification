@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/61cda39c24444e0caf7ebd0e0e114187/artifacts
+end_time: 1674938141687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61cda39c24444e0caf7ebd0e0e114187
+run_name: glamorous-shrimp-330
+run_uuid: 61cda39c24444e0caf7ebd0e0e114187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938133606
+status: 3
+tags: []
+user_id: Mika

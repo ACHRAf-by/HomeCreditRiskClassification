@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/9ea386a9275a42cfa09c7fa4226ba12d/artifacts
+end_time: 1674937962637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ea386a9275a42cfa09c7fa4226ba12d
+run_name: classy-mule-617
+run_uuid: 9ea386a9275a42cfa09c7fa4226ba12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937954487
+status: 3
+tags: []
+user_id: Mika

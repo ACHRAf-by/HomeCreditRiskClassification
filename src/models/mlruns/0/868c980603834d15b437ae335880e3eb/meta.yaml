@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/868c980603834d15b437ae335880e3eb/artifacts
+end_time: 1674937360285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 868c980603834d15b437ae335880e3eb
+run_name: adaptable-tern-851
+run_uuid: 868c980603834d15b437ae335880e3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937352247
+status: 3
+tags: []
+user_id: Mika

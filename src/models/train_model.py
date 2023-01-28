@@ -1,13 +1,8 @@
-import mlflow 
-import mlflow.xgboost as mxgb
-import xgboost as xgb
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import numpy as np 
-import pandas as pd
 
 def train_model(train_data):
-  corr = train_data.corr()
+  corr = train_data.corr(numeric_only = True)
   high_corr = corr[((corr > 0.05) | (corr < -0.05)) & (corr < 1) ]
 
   correlated_columns = {}
@@ -28,39 +23,5 @@ def train_model(train_data):
 
   x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
-  with mlflow.start_run():
-    model = xgb.XGBClassifier(seed = 9999,
-                              n_jobs=-10,
-                              base_score=0.5,
-                              booster= 'gbtree',
-                              gamma= 0.3,
-                              learning_rate= 0.1,
-                              reg_alpha= 1,
-                              reg_lambda= 0.5,
-                              eval_metric='mlogloss')
+  return x_train, y_train, x_test, y_test
 
-    model.fit(x_train, y_train)
-
-    y_pred = model.predict(x_test)
-
-    acc = accuracy_score(y_test, y_pred)
-    prec = precision_score(y_test, y_pred)
-    rec = recall_score(y_test, y_pred)
-    f1 = f1_score(y_test, y_pred)
-
-    print("Accuracy: {:.2f}%".format(acc*100))
-    print("Precision: {:.2f}%".format(prec*100))
-    print("Recall: {:.2f}%".format(rec*100))
-    print("F1 Score: {:.2f}".format(f1))
-
-    mlflow.xgboost.log_model(model, "model")
-    mlflow.log_metric("accuracy", acc)
-    mlflow.log_metric("precision", prec)
-    mlflow.log_metric("recall", rec)
-    mlflow.log_metric("f1_score", f1)
-
-  return model,x
-
-train = pd.read_csv('../models/csv/application_train.csv')
-
-train_model(train)

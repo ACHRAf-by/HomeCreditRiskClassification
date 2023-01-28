@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/95ddaac1f6fc472fb30e37a6481e6111/artifacts
+end_time: 1674937407164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ddaac1f6fc472fb30e37a6481e6111
+run_name: beautiful-newt-47
+run_uuid: 95ddaac1f6fc472fb30e37a6481e6111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937399073
+status: 3
+tags: []
+user_id: Mika

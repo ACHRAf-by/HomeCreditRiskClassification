@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/ff849c00b5844e07bd0305bd9559b07d/artifacts
+end_time: 1674937163610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff849c00b5844e07bd0305bd9559b07d
+run_name: painted-dolphin-855
+run_uuid: ff849c00b5844e07bd0305bd9559b07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937155476
+status: 3
+tags: []
+user_id: Mika

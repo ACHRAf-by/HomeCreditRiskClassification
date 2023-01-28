@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/76ea6e205811413e8b46b2d3d00f4b80/artifacts
+end_time: 1674937139571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76ea6e205811413e8b46b2d3d00f4b80
+run_name: stylish-tern-914
+run_uuid: 76ea6e205811413e8b46b2d3d00f4b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937131438
+status: 3
+tags: []
+user_id: Mika

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/5fc27d6f4d59411d96444c20458cc224/artifacts
+end_time: 1674938547016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fc27d6f4d59411d96444c20458cc224
+run_name: smiling-swan-165
+run_uuid: 5fc27d6f4d59411d96444c20458cc224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938538849
+status: 3
+tags: []
+user_id: Mika

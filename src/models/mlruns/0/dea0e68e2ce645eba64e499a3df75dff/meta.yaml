@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/dea0e68e2ce645eba64e499a3df75dff/artifacts
+end_time: 1674938106285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dea0e68e2ce645eba64e499a3df75dff
+run_name: resilient-cow-520
+run_uuid: dea0e68e2ce645eba64e499a3df75dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674938098168
+status: 3
+tags: []
+user_id: Mika

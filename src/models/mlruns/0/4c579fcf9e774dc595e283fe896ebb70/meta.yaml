@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/4c579fcf9e774dc595e283fe896ebb70/artifacts
+end_time: 1674937694802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c579fcf9e774dc595e283fe896ebb70
+run_name: industrious-midge-93
+run_uuid: 4c579fcf9e774dc595e283fe896ebb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674937686714
+status: 3
+tags: []
+user_id: Mika
