@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/b2b0eb8b7d484c2288e642140bc1886c/artifacts
+end_time: 1674936072019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2b0eb8b7d484c2288e642140bc1886c
+run_name: welcoming-tern-506
+run_uuid: b2b0eb8b7d484c2288e642140bc1886c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674936064005
+status: 3
+tags: []
+user_id: Mika

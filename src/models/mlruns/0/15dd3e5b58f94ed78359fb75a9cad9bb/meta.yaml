@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/15dd3e5b58f94ed78359fb75a9cad9bb/artifacts
+end_time: 1674935902924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15dd3e5b58f94ed78359fb75a9cad9bb
+run_name: clean-moth-907
+run_uuid: 15dd3e5b58f94ed78359fb75a9cad9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674935894802
+status: 3
+tags: []
+user_id: Mika

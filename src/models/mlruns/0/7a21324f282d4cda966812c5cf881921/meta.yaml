@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/7a21324f282d4cda966812c5cf881921/artifacts
+end_time: 1674935832972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a21324f282d4cda966812c5cf881921
+run_name: adaptable-roo-904
+run_uuid: 7a21324f282d4cda966812c5cf881921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674935824896
+status: 3
+tags: []
+user_id: Mika

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/01c05eac33e04ae29008b627c9712d7c/artifacts
+end_time: 1674935881763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01c05eac33e04ae29008b627c9712d7c
+run_name: angry-midge-156
+run_uuid: 01c05eac33e04ae29008b627c9712d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674935873714
+status: 3
+tags: []
+user_id: Mika

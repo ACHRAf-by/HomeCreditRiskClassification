@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mika/Documents/Dev/DataScience/HomeCreditRiskClassification/src/models/mlruns/0/a80b6e3ac3634f6daa4ed978fe3b7d0a/artifacts
+end_time: 1674934774289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a80b6e3ac3634f6daa4ed978fe3b7d0a
+run_name: skittish-snail-252
+run_uuid: a80b6e3ac3634f6daa4ed978fe3b7d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674934766560
+status: 3
+tags: []
+user_id: Mika
