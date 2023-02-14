@@ -1,3 +1,5 @@
+# Model train python script -- Extract code from model training notebook
+
 from sklearn.model_selection import train_test_split
 import numpy as np 
 
@@ -24,4 +26,3 @@ def train_model(train_data):
   x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
   return x_train, y_train, x_test, y_test
-
